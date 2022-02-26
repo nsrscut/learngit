@@ -1,3 +1,3 @@
 hellow git2 first add
 modify first
-add new branch
+Creating a new branch is quick AND simple.

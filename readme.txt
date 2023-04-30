@@ -1,5 +1,3 @@
 hellow git2 first add
 modify first
-finish merg
-add dssssssfsdfdsf
-sdfsfdd sdf 
+finish m
